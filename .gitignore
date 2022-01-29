@@ -4,3 +4,5 @@ floats
 chars
 bool
 convert
+enum
+const
