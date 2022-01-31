@@ -6,3 +6,7 @@ bool
 convert
 enum
 const
+vectors
+matrix
+strings
+struct
