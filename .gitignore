@@ -8,5 +8,7 @@ enum
 const
 vectors
 matrix
-strings
+string
 struct
+string2
+vector
